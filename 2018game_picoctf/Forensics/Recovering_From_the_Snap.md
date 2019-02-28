@@ -39,7 +39,9 @@ Processing: animals.dd
 |*|
 ```
 root@kali:/mnt/hgfs/Transcend/2018pico# cd output/
+
 root@kali:/mnt/hgfs/Transcend/2018pico/output# cat audit.txt
+
 ```
 Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
 Audit File
