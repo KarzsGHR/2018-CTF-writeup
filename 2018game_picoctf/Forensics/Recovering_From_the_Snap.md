@@ -8,7 +8,7 @@ https://2018shell.picoctf.com/static/040c56434beb57348cc5032272c04350/animals.dd
 
 ## S
 
-Mount and use 'file' check
+Mount and use 'strings' check
 ```
 strings /Volumes/Transcend/2018pico/animals.dd | more
 
